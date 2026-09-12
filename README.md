@@ -59,3 +59,4 @@ the code itself as your team project grows in later weeks.
 ## License
 
 Course material for HCDD 412, Penn State Abington, Fall 2026. Not for redistribution outside the course.
+# trigger
